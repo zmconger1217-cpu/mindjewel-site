@@ -1,2 +1,2 @@
-:HL["/mindjewel-site/_next/static/chunks/0-k4ikk6zyhl9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"universe","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"1Lch2LfUWHyjKHsVI9M2w"}
+:HL["/mindjewel-site/_next/static/chunks/17_4vcloq75w6.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"universe","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"9NgprDvqjQwlV5JNZRmuR"}
